@@ -28,7 +28,14 @@ cd crud-uai
 2. Certifique-se de ter o GoiásScript instalado:
 
 ```bash
-span
+# Clonar o repositório
+git clone https://github.com/Gefferson-Souza/goiasscript.git
+
+# Entrar no diretório
+cd goiasscript
+
+# Instalar globalmente
+npm install -g .
 ```
 
 ## 🎮 Como Usar
